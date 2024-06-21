@@ -82,3 +82,74 @@ reductions
 2023: 34,894 CoUs (34,894 tCO2eq)
 
 Total: 3,42,982 CoUs (3,42,982 tCO2eq)
+_________________
+ISSUE DATE: 31/06/2024
+
+QTY: 342982
+_____________
+Serial Number: 0001-000001-011509-UCR-CoU-IN-428-29082013-31122013
+
+Vintage Year: 2013
+
+Quantity: 11509
+____________
+Serial Number: 0001-011510-037872-UCR-CoU-IN-428-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 26363
+___________
+Serial Number: 0001-037873-061533-UCR-CoU-IN-428-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 23661
+_______________
+Serial Number: 0001-061534-081832-UCR-CoU-IN-428-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 20299
+_______________
+Serial Number: 0001-081833-112859-UCR-CoU-IN-428-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 31027
+______________
+Serial Number: 0001-112860-156233-UCR-CoU-IN-428-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 43374
+______________
+Serial Number: 0001-156234-182762-UCR-CoU-IN-428-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 26529
+_____________
+Serial Number: 0001-182763-215020-UCR-CoU-IN-428-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 32258
+________________
+Serial Number: 0001-215021-262980-UCR-CoU-IN-428-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 47960
+_________________
+Serial Number: 0001-262981-308088-UCR-CoU-IN-428-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 45108
+____________
+Serial Number: 0001-308089-342982-UCR-CoU-IN-428-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 34894
+_____________
